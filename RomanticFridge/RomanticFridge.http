@@ -1,6 +1,0 @@
-@RomanticFridge_HostAddress = http://localhost:5223
-
-GET {{RomanticFridge_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
